@@ -1,5 +1,3 @@
-<img  src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
-
 <h1 align="center">Hi 👋, I'm Khaled Hosny</h1>
 
 <h3 align="center">Front-End Developer | Information Technology Student</h3>

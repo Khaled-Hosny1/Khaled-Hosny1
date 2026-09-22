@@ -17,6 +17,9 @@
   <a href="https://khamsat.com/user/khaledhosny7777">
     <img src="https://img.shields.io/badge/Khamsat-%2300AEEF.svg?style=for-the-badge&logoColor=white" height="28">
   </a>
+  <a href="cv-to-showcase-79.lovable.app">
+    <img src="https://img.shields.io/badge/Portfolio-%2300AEEF.svg?style=for-the-badge&logoColor=white" height="28">
+  </a>
 </p>
 
 ---

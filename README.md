@@ -1,21 +1,87 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
-<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-<h2>Check My Nuxt Starter Kit</h2>
-  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
-      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Nuxt Starter Kit" height="500" >
-    </a>
-<h2>Latest Blog Posts</h2>
-  <ul>
-  <li><a href=https://mokkapps.de/blog/how-to-setup-an-mcp-server-for-an-existing-nuxt-app target="_blank" rel="noreferrer nofollow">How to Set Up an MCP Server for an Existing Nuxt App</a></li><li><a href=https://mokkapps.de/vue-tips/difference-between-use-fetch-and-event-fetch target="_blank" rel="noreferrer nofollow">Nuxt Tip: Difference Between useFetch and event.$fetch</a></li><li><a href=https://mokkapps.de/vue-tips/infer-props-from-component-map target="_blank" rel="noreferrer nofollow">Vue Tip: Infer Props From Components in a Component Map</a></li><li><a href=https://mokkapps.de/blog/vue-state-management-composables-provide-inject-pinia target="_blank" rel="noreferrer nofollow">Navigating State Management in Vue: Composables, Provide/Inject, and Pinia</a></li><li><a href=https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea target="_blank" rel="noreferrer nofollow">Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey</a></li>
-  </ul>
-<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
-<h2>Latest Newsletter Issues</h2>
-  <ul>
-    <li><a href=https://weekly-vue.news/issues/v2/205 target="_blank" rel="noreferrer nofollow">Weekly Vue News #241 - Final Newsletter Issue</a></li><li><a href=https://weekly-vue.news/issues/v2/204 target="_blank" rel="noreferrer nofollow">Weekly Vue News #240 - TypeScript at Scale, Pinia Colada v1, Vite Recap & effectScope Deep Dive</a></li><li><a href=https://weekly-vue.news/issues/v2/203 target="_blank" rel="noreferrer nofollow">Weekly Vue News #239 - Accessibility tips, Nuxt UI updates, and power tools for dev productivity</a></li><li><a href=https://weekly-vue.news/issues/v2/202 target="_blank" rel="noreferrer nofollow">Weekly Vue News #238 - Nuxt UI v4, business wins with Nuxt, and VueUse</a></li><li><a href=https://weekly-vue.news/issues/v2/201 target="_blank" rel="noreferrer nofollow">Weekly Vue News #237 - Top Nuxt Modules for 2026, TypeScript 6.0 Beta, and AI Content Tools</a></li>
-  </ul>
-<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+<h1 align="center">Hi 👋, I'm Khaled Hosny</h1>
+
+<h3 align="center">Front-End Developer | Information Technology Student</h3>
+
+<p align="center">
+  I'm a passionate Front-End Developer and IT student focused on building modern,
+  responsive, and user-friendly web experiences.
+  <br>
+  Currently improving my skills in HTML, CSS, JavaScript, and React.js through
+  learning and practical projects.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khaled-hosny-942595438">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
+  </a>
+  <a href="https://khamsat.com/user/khaledhosny7777">
+    <img src="https://img.shields.io/badge/Khamsat-%2300AEEF.svg?style=for-the-badge&logoColor=white" height="28">
+  </a>
+</p>
+
+---
+
+<h2>👨‍💻 About Me</h2>
+
+<ul>
+  <li>🎓 Information Technology Student</li>
+  <li>💻 Focused on Front-End Development</li>
+  <li>🌐 Learning and practicing HTML, CSS, JavaScript & React.js</li>
+  <li>📱 Interested in building modern and responsive websites</li>
+  <li>🚀 Continuously improving my programming and problem-solving skills</li>
+  <li>💼 Open to internships, freelance projects, and professional opportunities</li>
+</ul>
+
+<h2>🛠️ Technologies & Tools</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+<h2>🚀 Projects</h2>
+
+<ul>
+  <li>
+    <b>Bread Shop Website</b> — A practical web project created to improve my
+    Front-End development skills.
+  </li>
+  <li>
+    More projects coming soon...
+  </li>
+</ul>
+
+<h2>📚 Currently Learning</h2>
+
+<ul>
+  <li>JavaScript Fundamentals</li>
+  <li>Responsive Web Design</li>
+  <li>React.js</li>
+  <li>Web Accessibility</li>
+  <li>Git & GitHub</li>
+</ul>
+
+<h2>📊 GitHub Stats</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Hosny1&show_icons=true" alt="Khaled's GitHub Stats">
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Hosny1&layout=compact" alt="Top Languages">
+</p>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/khaled-hosny-942595438">LinkedIn</a> •
+  <a href="https://khamsat.com/user/khaledhosny7777">Khamsat</a>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
